@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List - HI Fellow Human</title>
+</head>
+<body>
+    <h1>Ordered List</h1>
+    <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ol>
+    <h1>Unordered List</h1>
+    <ul>
+        <li>Item A</li>
+        <li>Item B</li>
+        <li>Item C</li>
+    </ul>
+    <h1>Definition List</h1>
+    <dl>
+        <dt>Term</dt>
+        <dd>Description for Term Above Term</dd>
+        <dt>Term 2</dt>
+        <dd>Description for Term 2</dd>
+        <dt>Term 3</dt>
+        <dd>Description for Term 3</dd>
+        <dt>Contact Me!!!</dt>
+        <dd><button type="button" onclick="alert('Button Clicked!')">Click Me!</button></dd>
+            
+    </dl>
+</body>
+</html>
